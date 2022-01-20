@@ -38,7 +38,7 @@ What we knew about exploratory testing includes that in exploratory testing, tes
 
 Manual functional testing or manual scripted testing varies from exploratory testing such that the former is heavily scripted and planned. In scripted testing, tests aer first designed and recorded, then they are executed at a later time. This allows tests to be run by different testers. Scripted testing strictly follows the path that was designed prior to the execution of the tests. No deviation from the planned tests recorded in the script.
 
-Exploratory testing enables choice and increases the net of different scenarios that are tested, while scripted testing limits the scenarios that are tested and it's possible to miss a fault every time. However, exploratory testing is less sscalable, trackable, and repeatable than scripted testing
+Exploratory testing enables choice and increases the net of different scenarios that are tested, while scripted testing limits the scenarios that are tested and it's possible to miss a fault every time. However, exploratory testing is less scalable, trackable, and repeatable than scripted testing
 
 # High-level description of the exploratory testing plan
 
