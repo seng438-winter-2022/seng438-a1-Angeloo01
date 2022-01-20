@@ -32,8 +32,13 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+This purpose of this lab is to introduce us to the concepts of software testing. The objectives of this lab includes hands-on experience in testing, the differences between exploratory testing, manual scripted testing, and regression testing, and using tools to track defects and common practices.
+
+What we knew about exploratory testing includes that in exploratory testing, tests are designed and executed together at the same time. Exploratory testing is done with no strict plan, however, the testing is done with some plan or goal in mind. For example, the testing can be focused on specific simple functionalities to easily localize faults or it can be focused on a large set of functionalities to test the system as a whole. Additionaly, exploratory testing uses a human tester to create realistic scenarios for the system that will cause it to fail or succeed. The tester varies the system input in order to find faults with the system.
+
+Manual functional testing or manual scripted testing varies from exploratory testing such that the former is heavily scripted and planned. In scripted testing, tests aer first designed and recorded, then they are executed at a later time. This allows tests to be run by different testers. Scripted testing strictly follows the path that was designed prior to the execution of the tests. No deviation from the planned tests recorded in the script.
+
+Exploratory testing enables choice and increases the net of different scenarios that are tested, while scripted testing limits the scenarios that are tested and it's possible to miss a fault every time. However, exploratory testing is less sscalable, trackable, and repeatable than scripted testing
 
 # High-level description of the exploratory testing plan
 
