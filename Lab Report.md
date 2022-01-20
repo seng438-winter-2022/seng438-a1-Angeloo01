@@ -42,7 +42,19 @@ Exploratory testing enables choice and increases the net of different scenarios 
 
 # High-level description of the exploratory testing plan
 
-Text…
+Our goal for the exploratory test is to test all the high level requirements as stated in Appendix B. These include:
+-   Start or stop the machine.
+-   Enter ATM card and Personal Identifcation Number (PIN)
+-   Withdrawal, limited to multiples of $20
+-   Deposit
+-   Transfer
+-   Balance Inquiry
+-   Invalid PIN and 3 invalid attempts.
+-   failed transactions
+-   Proper printed receipt
+-   Proper logging of transactions
+
+In addition to these tests, we plan to enter invalid inputs when it queries the user. For example, a negative or large number for ATM card number. Finally, we will check to see if the system's behaviour and output matches that expected behaviour and output as stated in Appendix B.
 
 # Comparison of exploratory and manual functional testing
 
