@@ -20,7 +20,7 @@
 
 [3 Comparison of exploratory and manual functional testing	1](#comparison-of-exploratory-and-manual-functional-testing)
 
-[4 Notes and discussion of the peer reviews of defect reports	1](#Notes_and_discussion_of_the_peer_reviews_of_defect_reports)
+[4 Notes and discussion of the peer reviews of defect reports	1](#notes-and-discussion-of-the-peer-reviews-of-defect-reports)
 
 [5 How the pair testing was managed and team work/effort was
 divided	1](#How_the_pair_testing_was_managed_and_team_work/effort_was_divided)
