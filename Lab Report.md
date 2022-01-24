@@ -2,7 +2,7 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:       |   |
+| Group \#:       | 22  |
 |-----------------|---|
 | Student Names:  |  Angelo Gonzales |
 |                 |  Dave Sharma |
