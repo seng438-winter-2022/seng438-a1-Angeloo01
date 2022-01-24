@@ -28,7 +28,7 @@ divided	1](#how-the-pair-testing-was-managed-and-team-workeffort-was-divided)
 [6 Difficulties encountered, challenges overcome, and lessons
 learned	1](#difficulties-encountered-challenges-overcome-and-lessons-learned)
 
-[7 Comments/feedback on the lab and lab document itself	1](#Comments/feedback_on_the_lab_and_lab_document_itself)
+[7 Comments/feedback on the lab and lab document itself	1](#commentsfeedback-on-the-lab-and-lab-document-itself)
 
 # Introduction
 
