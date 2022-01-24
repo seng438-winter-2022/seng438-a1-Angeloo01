@@ -16,9 +16,9 @@
 
 [1 Introduction	1](#Introduction)
 
-[2 High-level description of the exploratory testing plan	1](#High-level_description_of_the_exploratory_testing_plan)
+[2 High-level description of the exploratory testing plan	1](#High-leveldescriptionoftheexploratorytestingplan)
 
-[3 Comparison of exploratory and manual functional testing	1](#Comparison_of_exploratory_and_manual_functional_testing)
+[3 Comparison of exploratory and manual functional testing	1](#Comparisonofexploratoryandmanualfunctionaltesting)
 
 [4 Notes and discussion of the peer reviews of defect reports	1](#Notes_and_discussion_of_the_peer_reviews_of_defect_reports)
 
