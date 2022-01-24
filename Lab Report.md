@@ -72,8 +72,10 @@ During pair testing pair work was split equally, with 1 member utilizing the app
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+Throughout the assingment, we encountered difficulties when performing the different types of testing. During the exploratory testing, we found that coming up with a high-level exploratory test plan that we can use to perform the tests was difficult. This is because our group is not that familiar with software testing and bug tracking. However, we overcame this difficulty by going through the requirements for the ATM simulation system (Appendix B) together as a group, then split into the pairs. This allowed us to discuss what are key features that we should test. Another difficulty we encountered during all three testings was that the system would sometimes freeze. We would need to restart the whole program whenever this happens, going through all the steps again to reproduce that bug.
+
+The main lesson that our group learned was the key differences between exploratory, manual scripted, and regression testings. At the beginning, we knew the definitions of the types of testings. However, this assignment has supplemented our understanding of the different testings through hands-on experience. Another lesson that we learned was how to efficiently work in pairs. As mentioned before, we found that sharing our screens to each other while performing the tests and bug tracking was beneficial to us since it allowed both members to witness the bugs and discuss it easily. Lastly, we also learned how to write descriptive reports for the defects we found using Backlog.
 
 # Comments/feedback on the lab and lab document itself
 
-Text…
+By the end of the assignment, our group found that these excercises was very useful. This assignment has been a great introduction for this course as we have learned multiple skills such as how to perform different testings and how to report defects. The lab document was very clear and concise that shows what was required from our group. Going through the document was easy to follow as it shows key definitions and points that we are exploring. Step by step instructions were provided in the document which made it easier to finish the assignment.
