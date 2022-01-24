@@ -64,7 +64,7 @@ Manual functional testing is preffered as it is heavily planned thus, it is more
 
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+For the exploratory testing, each pair of group members looked at the bug defect report via searching issues in the backlog bug reporting system. The groups looked at each others’ bugs, while trying to reproduce the steps to ensure that they were able to achieve the same end goal. The searching was done by looking at first the priority level for the search, either High Priority or Low Priority given in the categories. Some of the notes that were taken while reviewing the defects report was that some bugs were not necessarily as important as others such as a misspelling of a word like “wood” which was demoted to a lower priority compared to a logical problem such as printing money for any option clicked (Bug ATM1-4). In addition, some notes pointed out by one of the groups was that a bug such as a large integer fail (Bug ATM1-1) was not necessarily due to an in-system bug, however due to not being able to properly display an error message, it was kept as a bug. For the manual-scripting and manual regression for version 1.0, Tests 6 and 14 were the same as some of the exploratory tests that were already caught. For version 1.1 Tests 13, 14, and 34 were the same as some of the exploratory tests that were already caught. 
 
 # How the pair testing was managed and team work/effort was divided 
 
