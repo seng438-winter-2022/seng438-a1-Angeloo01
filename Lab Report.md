@@ -18,7 +18,7 @@
 
 [2 High-level description of the exploratory testing plan	1](#high-level-description-of-the-exploratory-testing-plan)
 
-[3 Comparison of exploratory and manual functional testing	1](#Comments/feedback on the lab and lab document itself)
+[3 Comparison of exploratory and manual functional testing	1](#comparison-of-exploratory-and-manual-functional-testing)
 
 [4 Notes and discussion of the peer reviews of defect reports	1](#Notes_and_discussion_of_the_peer_reviews_of_defect_reports)
 
