@@ -68,7 +68,7 @@ Text…
 
 # How the pair testing was managed and team work/effort was divided 
 
-Text…
+During pair testing pair work was split equally, with 1 member utilizing the app and sharing their screen, while the other member noted and defects and fixes to the backlog. This way both members of the pair were able to witness proper execution of the program, and are able to discuss specific bugs that were found. Also since pair testing was done on exploratory tests, dividing work this way made it easier to determine a way to find defects between the two members. Once these tests were finished we combined our results with the otehr pair in the group, seeing that we both had very similar bugs to be found due to using the same method of pair testing.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
