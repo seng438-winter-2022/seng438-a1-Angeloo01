@@ -16,7 +16,7 @@
 
 [1 Introduction	1](#Introduction)
 
-[2 High-level description of the exploratory testing plan	1](#High-leveldescriptionoftheexploratorytestingplan)
+[2 High-level description of the exploratory testing plan	1](#high-level-description-of-the-exploratory-testing-plan)
 
 [3 Comparison of exploratory and manual functional testing	1](#Comments/feedback on the lab and lab document itself)
 
